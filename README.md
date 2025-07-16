@@ -42,8 +42,8 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 4. **`AIME_Syn.m`**  
    *Function:* AIME results with synthetic data
 
-5. **`LI_HC.m`**  
-   *Function:* LI-HC results
+5. **`LIHC_Synthetic.m`**  
+   *Function:* LI-HC results with the synthetic data
 
 6. [Sample Execution](./Sample%20Execution)  
 *Function:* a folder containing the executed results of the code listed above. Different file types under the same name indicate the same set of code
