@@ -72,6 +72,9 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 13. **`LIHC_MNIST.m`**  
    *Function:* LI-HC results with the MNIST data
 
+13. **`DHC_Synthetic.m`**  
+   *Function:* Traditional Divisive Hierarchical Clustering results with the Synthetic data
+
 
 
 ## License
