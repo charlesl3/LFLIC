@@ -69,6 +69,9 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 12. **`SetRNG.m`**  
    *Function:* random seeds settings
 
+13. **`LIHC_MNIST.m`**  
+   *Function:* LI-HC results with the MNIST data
+
 
 
 ## License
