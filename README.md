@@ -64,13 +64,13 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
    *Function:* cluster generating functions to implement LI-HC
 
 12. **`SOM.m`**  
-   *Function:* an alternative clustering function other than K-means for identifying AIME components from the learned weight vectors.
+   *Function:* an alternative clustering function other than K-means for identifying AIME components from the learned weight vectors
 
 12. **`SetRNG.m`**  
    *Function:* random seeds settings
 
 13. **`LIHC_MNIST.m`**  
-   *Function:* LI-HC results with the MNIST data
+   *Function:* LI-HC results with the MNIST data, including traditional Divisive Hierarchical Clustering results with the MNIST data (single-cycled) 
 
 13. **`DHC_Synthetic.m`**  
    *Function:* Traditional Divisive Hierarchical Clustering results with the Synthetic data
