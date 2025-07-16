@@ -80,4 +80,4 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
