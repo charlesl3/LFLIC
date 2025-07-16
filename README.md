@@ -75,7 +75,8 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 13. **`DHC_Synthetic.m`**  
    *Function:* Traditional Divisive Hierarchical Clustering results with the Synthetic data
 
-
+14. **`AIME_MNIST.m`**  
+   *Function:* AIME results with MNIST data (single-cycled)
 
 ## License
 
